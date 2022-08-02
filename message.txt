@@ -1,4 +1,4 @@
-```python
+python
 import feedparser
 import pyrebase
 from discord_webhook import DiscordWebhook, DiscordEmbed
@@ -81,4 +81,3 @@ if __name__ == "__main__":
 
     while True:
         run_bot()
-```
